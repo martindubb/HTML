@@ -40,3 +40,12 @@ https://www.w3schools.com/css/css3_flexbox_container.asp
 
 Layout mit CSS
 https://www.w3schools.com/html/html_layout.asp
+
+
+Bootstrap Tutorial
+https://www.w3schools.com/bootstrap5/index.php
+
+
+
+HTML / CSS Codesnippets 
+https://www.w3schools.com/howto/default.asp
